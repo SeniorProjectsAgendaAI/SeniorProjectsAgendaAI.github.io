@@ -1,1 +1,2 @@
+title: Minimal theme
 # testing
