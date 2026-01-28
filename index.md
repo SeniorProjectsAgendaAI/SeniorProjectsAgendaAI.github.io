@@ -1,12 +1,12 @@
 ---
 layout: default
 ---
-```
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-```
+
+<!--Text can be **bold**, _italic_, or ~~strikethrough~~.-->
+
 [Alternative Link to Github](https://github.com/SeniorProjectsAgendaAI/AgendaAI).
 
-#Demo Video
+# Demo Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wdLXmoTWq3k?si=wzcOlBFSYZdvI0o9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Description
@@ -33,13 +33,3 @@ Quick Member description perchance
 *   Item bar
 *   Item baz
 *   Item zip
-
-
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
