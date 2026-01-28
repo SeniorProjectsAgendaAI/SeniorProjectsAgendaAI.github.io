@@ -1,22 +1,19 @@
 ---
 layout: default
 ---
-
+```
 Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](https://github.com/SeniorProjectsAgendaAI/AgendaAI).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+```
+[Alternative Link to Github](https://github.com/SeniorProjectsAgendaAI/AgendaAI).
 
 #Demo Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wdLXmoTWq3k?si=wzcOlBFSYZdvI0o9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Description
-
+This is a Temporary Description PlaceHolder
 
 # About Us
+Quick Member description perchance
 
 #### Header 4
 
