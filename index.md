@@ -4,13 +4,13 @@ layout: default
 
 <!--Text can be **bold**, _italic_, or ~~strikethrough~~.-->
 # CS 426 Senior Project in Computer Science - Spring 2025 - UNR CSE
-## [Team 28](https://github.com/SeniorProjectsAgendaAI/AgendaAI).
+## [Team 28](https://github.com/SeniorProjectsAgendaAI/AgendaAI)
 
 # Members
-* James Accacio
-* Biniam Gashaw
-* Ankush Joshi
-* Alexander Medal
+* [James Accacio](https://github.com/Wollbey)
+* [Biniam Gashaw](https://github.com/BiniamGashaw)
+* [Ankush Joshi](https://github.com/aannkooss)
+* [Alexander Medal](https://github.com/ItsAlexMedal)
 
 # Instructors and Advisor
 * Dave Feil-Seifer 
