@@ -49,16 +49,22 @@ https://www.w3.org/WAI/standards-guidelines/wcag/#intro
 
 ## Problem-Domain Book - (Citations not directly referenced in this document)
 [5] K. STRATIS, Ai Agents with MCP: Model Context Protocol for Building Clients, Services, and End-to-End Agents. S.l.: O’REILLY MEDIA, 2026. 
-“AI Agents with MCP” is a book that highlights exactly how we will implement MCP in our project. It will guide us in designing the architecture for our agent, showing us how to build complete MCP servers in Python, as well as extending agent capabilities for large-scale solutions. In short, this book will be a primary guide for the development for our project
+“AI Agents with MCP” 
+
+A book that highlights exactly how we will implement MCP in our project. It will guide us in designing the architecture for our agent, showing us how to build complete MCP servers in Python, as well as extending agent capabilities for large-scale solutions. In short, this book will be a primary guide for the development for our project
 .
 ## Peer-reviewed Articles  - (Citations not directly referenced in this document)
 [6]“SnoopMe-Interactive Task Scheduler mobile application for students,” IEEE Conference Publication | IEEE Xplore, Jan. 01, 2019. https://ieeexplore.ieee.org/abstract/document/8945836
-This paper introduces "SnoopMe," a mobile app designed to improve student time management by addressing smartphone distractions. The app functions as a smart scheduler, allowing students to set tasks and deadlines. Uniquely, it also monitors their mobile app usage, provides graphical reports, and sends alerts recommending they restrict phone use to complete their work. A study of 30 undergraduate students who used the app for one week provided positive feedback.
+This paper introduces "SnoopMe," 
+
+A mobile app designed to improve student time management by addressing smartphone distractions. The app functions as a smart scheduler, allowing students to set tasks and deadlines. Uniquely, it also monitors their mobile app usage, provides graphical reports, and sends alerts recommending they restrict phone use to complete their work. A study of 30 undergraduate students who used the app for one week provided positive feedback.
 
 
-[7] J. Von Garrel and J. Mayer, “Artificial Intelligence in studies—use of ChatGPT and AI-based tools among students in Germany,” Humanities and Social Sciences Communications, vol. 10, no. 1, Nov. 2023, doi: 10.1057/s41599-023-02304-7.
+[7] J. Von Garrel and J. Mayer, “Artificial Intelligence in studies—use of ChatGPT and AI-based tools among students in Germany,” Humanities and Social Sciences Communications, vol. 10, no. 1, Nov. 2023, doi: 10.1057/s41599-023-02304-7. 
+
 The research on 875 students in Germany reported that 80% of students use AI for tasks like clarifying concepts, writing, and literature. Perceived usefulness was the primary prediction for students to start using AI in their school work. Almost half of all students surveyed mention that ChatGPT was a tool they use for school work. This study shows how AI has integrated itself into a student’s schoolwork.
 
 
 [8]“Code execution with MCP: building more efficient AI agents.” https://www.anthropic.com/engineering/code-execution-with-mcp
+
 The key benefit of presenting MCP servers as code APIs on a virtual filesystem is that it moves complex logic and heavy data processing out of the model's limited context window and into a dedicated secure execution environment. This approach allows the AI agent to load tools only when needed and filter enormous datasets locally. 
