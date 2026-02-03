@@ -13,9 +13,9 @@ layout: default
 * [Alexander Medal](https://github.com/ItsAlexMedal)
 
 # Instructors and Advisor
-* Dave Feil-Seifer 
+* [Dave Feil-Seifer](https://www.unr.edu/cse/people/david-feil-seifer) 
 * Vinh Le
-* Emily Hand - Associate Professor, Graduate Director
+* [Emily Hand](https://www.unr.edu/cse/people/emily-hand)
 
 
 # Demo Video
