@@ -3,9 +3,7 @@ layout: default
 ---
 
 <!--Text can be **bold**, _italic_, or ~~strikethrough~~.-->
-# CS 426 Senior Project in Computer Science
-# Spring 2025
-# UNR CSE
+# CS 426 Senior Project in Computer Science - Spring 2025 - UNR CSE
 ## Team 28 
 
 # Members
