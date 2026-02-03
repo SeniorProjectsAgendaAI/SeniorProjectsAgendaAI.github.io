@@ -3,6 +3,22 @@ layout: default
 ---
 
 <!--Text can be **bold**, _italic_, or ~~strikethrough~~.-->
+# CS 426 Senior Project in Computer Science
+# Spring 2025
+# UNR CSE
+## Team 28 
+
+# Members
+* James Accacio
+* Biniam Gashaw
+* Ankush Joshi
+* Alexander Medal
+
+# Instructors and Advisor
+* Dave Feil-Seifer 
+* Vinh Le
+* Emily Hand - Associate Professor, Graduate Director
+
 
 [Alternative Link to Github](https://github.com/SeniorProjectsAgendaAI/AgendaAI).
 
@@ -12,8 +28,7 @@ layout: default
 # Description
 This is a Temporary Description PlaceHolder
 
-# About Us
-Quick Member description perchance
+
 
 #### Header 4
 
