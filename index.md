@@ -7,7 +7,7 @@ layout: default
 
 ---
 
-## 📋 Project Overview
+##  Project Overview
 
 **Team Number:** 28  
 **Team Name:** AgendaAI  
@@ -41,7 +41,7 @@ layout: default
 
 ---
 
-## 👨‍🏫 Faculty & Advisors
+##  Faculty & Advisors
 
 <div class="team-list">
 <div class="team-member">
@@ -62,7 +62,7 @@ External Advisor | University of Nevada, Reno
 
 ---
 
-## 📹 Demo Video
+##  Demo Video
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/wdLXmoTWq3k?si=wzcOlBFSYZdvI0o9" title="AgendaAI Project Demo Video - Concept and Layout Overview" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -100,17 +100,15 @@ AgendaAI is an **AI-powered academic organization tool** that:
 
 ### Key Features
 
-- ✅ **Centralized Dashboard** - View all assignments, tasks, and events in one place
-- ✅ **Smart Task Parsing** - AI converts complex assignment descriptions into actionable items
-- ✅ **Email & Event Integration** - Automatically imports from Gmail, Canvas, and Google Calendar
-- ✅ **AI-Powered Insights** - Get personalized study recommendations and priority organization
-- ✅ **Natural Language Commands** - Interact with your schedule using simple text commands
-- ✅ **Cross-Platform Sync** - Seamless synchronization across all integrated services
-- ✅ **Timezone-Aware Scheduling** - Proper handling of assignments and events across timezones
+-  **Centralized Dashboard** - View all assignments, tasks, and events in one place
+-  **Email & Event Integration** - Automatically imports from Gmail, Canvas, and Google Calendar
+-  **Natural Language Commands** - Interact with your schedule using simple text commands
+-  **Cross-Platform Sync** - Seamless synchronization across all integrated services
+-  **Timezone-Aware Scheduling** - Proper handling of assignments and events across timezones
 
 ---
 
-## 🔗 Project Resources
+##  Project Resources
 
 ### Technical & Conceptual Resources
 
@@ -138,7 +136,7 @@ AgendaAI is an **AI-powered academic organization tool** that:
 
 ---
 
-## 📚 Detailed References
+##  Detailed References
 
 ### Accessibility Standards
 
@@ -179,27 +177,27 @@ AgendaAI is an **AI-powered academic organization tool** that:
 
 ---
 
-## 🎯 Project Status
+##  Project Status
 
 **Current Phase:** Development & Integration (Spring 2025)
 
 **Completed Components:**
-✅ Canvas LMS Integration with timezone support  
-✅ Backend API framework (FastAPI)  
-✅ Google Calendar and Gmail support  
-✅ Frontend dashboard interface  
-✅ User authentication with AWS Cognito  
+ Canvas LMS Integration with timezone support  
+ Backend API framework (FastAPI)  
+ Google Calendar and Gmail support  
+ Frontend dashboard interface  
+ User authentication with AWS Cognito  
 
 **In Progress:**
-🔄 Advanced AI task parsing with Gemini  
-🔄 MCP agent implementation  
-🔄 Email-to-task conversion  
+ Advanced AI task parsing with Gemini  
+ MCP agent implementation  
+ Email-to-task conversion  
 
 **Upcoming:**
-⏳ Comprehensive testing and QA  
-⏳ User feedback integration  
-⏳ Performance optimization  
-⏳ Full accessibility audit (WCAG 2.1 AA)  
+ Comprehensive testing and QA  
+ User feedback integration  
+ Performance optimization  
+ Full accessibility audit (WCAG 2.1 AA)  
 
 ---
 
