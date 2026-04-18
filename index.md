@@ -15,7 +15,7 @@ layout: default
 
 ---
 
-## 👥 Team Members
+##  Team Members
 
 <div class="team-list">
 <div class="team-member">
@@ -70,7 +70,7 @@ External Advisor | University of Nevada, Reno
 
 ---
 
-## 💡 Project Description
+##  Project Description
 
 ### The Problem
 
