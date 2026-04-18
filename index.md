@@ -2,88 +2,213 @@
 layout: default
 ---
 
-<!--Text can be **bold**, _italic_, or ~~strikethrough~~.-->
-# CS 426 Senior Project in Computer Science - Spring 2025 - UNR CSE
-## [Team 28](https://github.com/SeniorProjectsAgendaAI/AgendaAI)
+# AgendaAI
+## CS 426 Senior Project in Computer Science | Spring 2025 | University of Nevada, Reno | CSE Department
 
-# Members
-* [James Accacio](https://github.com/Wollbey)
-* [Biniam Gashaw](https://github.com/BiniamGashaw)
-* [Ankush Joshi](https://github.com/aannkooss)
-* [Alexander Medal](https://github.com/ItsAlexMedal)
+---
 
-# Instructors and Advisor
-* [Dave Feil-Seifer](https://www.unr.edu/cse/people/david-feil-seifer) 
-* Vinh Le
-* [Emily Hand](https://www.unr.edu/cse/people/emily-hand)
+## 📋 Project Overview
 
+**Team Number:** 28  
+**Team Name:** AgendaAI  
+**GitHub Repository:** [SeniorProjectsAgendaAI/AgendaAI](https://github.com/SeniorProjectsAgendaAI/AgendaAI)
 
-# Demo Video
-#### Temporary video for concept/layout
-<iframe width="350" height="196" src="https://www.youtube.com/embed/wdLXmoTWq3k?si=wzcOlBFSYZdvI0o9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+---
 
-# Project Description
-## Problem
+## 👥 Team Members
 
-In today’s academic world, resources are scattered across different platforms, making it difficult to keep track of everything. For example, assignments are on canvas, online lectures take place on zoom, and emails on all platforms. Since there is such a large spread of where things are, it is easy to miss deadlines and important events. Our project targets this by centralizing information so deadlines and events aren't missed.
+<div class="team-list">
+<div class="team-member">
+<strong>James Accacio</strong>
+<a href="https://github.com/Wollbey" aria-label="James Accacio's GitHub profile">GitHub Profile</a>
+</div>
 
+<div class="team-member">
+<strong>Biniam Gashaw</strong>
+<a href="https://github.com/BiniamGashaw" aria-label="Biniam Gashaw's GitHub profile">GitHub Profile</a>
+</div>
 
-## Intended Audience
+<div class="team-member">
+<strong>Ankush Joshi</strong>
+<a href="https://github.com/aannkooss" aria-label="Ankush Joshi's GitHub profile">GitHub Profile</a>
+</div>
 
-The intended audience of our project will be students. The intention of the app is to give students with busy schedules from both school and life outside of school a tool that will help them organize their time easily and better manage time. Students in our case refers to undergraduate students, graduate students, and working students that all have different
-scheduling requirements. The public interest in this product is that it reduces the number of applications a user must filter through to gain a clear understanding of their schedule. By decreasing cognitive overload and improving time management for students navigating increasingly complex academic environments, AgendaAI helps accurately track the tasks, deadlines, and events necessary for a student’s academic life. This reduces the likelihood that important information is overlooked and allows students to manage their time more effectively.
+<div class="team-member">
+<strong>Alexander Medal</strong>
+<a href="https://github.com/ItsAlexMedal" aria-label="Alexander Medal's GitHub profile">GitHub Profile</a>
+</div>
+</div>
 
+---
 
-## Functionality and Capabilities
+## 👨‍🏫 Faculty & Advisors
 
-AgendaAI is an AI powered academic organization tool that integrates multiple student focused services, including Canvas, Gmail, and Google Calendar, through their respective APIs to centralize assignments, events, and announcements into a single platform. The system utilizes a large language model (Gemini) to interpret and process unstructured academic information, such as lengthy emails and complex assignment descriptions, and convert them into actionable items using natural language processing. A key component of AgendaAI is its use of a Model Context Protocol (MCP) agent, which enables the AI to interact directly with connected services and perform tasks on behalf of the user while operating within defined permissions. Users can interact with the system using natural language commands to create tasks, schedule study sessions, and receive organized summaries of their academic responsibilities. The application is designed with an intuitive, visually appealing interface that emphasizes clarity and ease of use, allowing students to efficiently manage their schedules and reduce cognitive overload.
+<div class="team-list">
+<div class="team-member">
+<strong><a href="https://www.unr.edu/cse/people/david-feil-seifer">Dave Feil-Seifer</a></strong>
+Advisor | University of Nevada, Reno
+</div>
 
+<div class="team-member">
+<strong>Vinh Le</strong>
+Instructor | University of Nevada, Reno
+</div>
 
+<div class="team-member">
+<strong><a href="https://www.unr.edu/cse/people/emily-hand">Emily Hand</a></strong>
+External Advisor | University of Nevada, Reno
+</div>
+</div>
 
-<!--
-#### Header 4
+---
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## 📹 Demo Video
 
-##### Header 5
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/wdLXmoTWq3k?si=wzcOlBFSYZdvI0o9" title="AgendaAI Project Demo Video - Concept and Layout Overview" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+---
 
-### Here is an unordered list:
+## 💡 Project Description
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
--->
+### The Problem
 
-# References
-## Accessibility Standards
-[1] W. W. A. I. (WAI), “WCAG 2 Overview”, Web Accessibility Initiative (WAI), 2024.
-https://www.w3.org/WAI/standards-guidelines/wcag/#intro
+In today's academic world, resources are scattered across different platforms, making it difficult to keep track of everything. Assignments exist on Canvas, online lectures happen on Zoom, emails arrive across multiple platforms, and calendars are fragmented across services. This fragmentation creates significant cognitive overload and makes it easy to miss deadlines and important events.
 
-## Problem-Domain Book - (Citations not directly referenced in this document)
-[2] K. STRATIS, Ai Agents with MCP: Model Context Protocol for Building Clients, Services, and End-to-End Agents. S.l.: O’REILLY MEDIA, 2026. 
-“AI Agents with MCP” 
+Students today face a critical pain point: **the necessity to actively juggle and monitor numerous applications to maintain awareness of their academic responsibilities.**
 
-A book that highlights exactly how we will implement MCP in our project. It will guide us in designing the architecture for our agent, showing us how to build complete MCP servers in Python, as well as extending agent capabilities for large-scale solutions. In short, this book will be a primary guide for the development for our project
-.
-## Peer-reviewed Articles  - (Citations not directly referenced in this document)
-[3]“SnoopMe-Interactive Task Scheduler mobile application for students,” IEEE Conference Publication | IEEE Xplore, Jan. 01, 2019. https://ieeexplore.ieee.org/abstract/document/8945836
-This paper introduces "SnoopMe," 
+### Target Audience
 
-A mobile app designed to improve student time management by addressing smartphone distractions. The app functions as a smart scheduler, allowing students to set tasks and deadlines. Uniquely, it also monitors their mobile app usage, provides graphical reports, and sends alerts recommending they restrict phone use to complete their work. A study of 30 undergraduate students who used the app for one week provided positive feedback.
+AgendaAI is designed for:
+- **Undergraduate students** managing multiple courses and part-time work
+- **Graduate students** balancing research, teaching, and coursework
+- **Working students** coordinating school with full-time employment
+- **All students** seeking to reduce cognitive overload and improve time management
 
+The public interest in this product is significant—it reduces the number of applications users must filter through to gain a clear understanding of their schedule. By decreasing cognitive overload and improving time management for students navigating increasingly complex academic environments, AgendaAI helps accurately track the tasks, deadlines, and events necessary for academic success while allowing students to manage their time more effectively.
 
-[4] J. Von Garrel and J. Mayer, “Artificial Intelligence in studies—use of ChatGPT and AI-based tools among students in Germany,” Humanities and Social Sciences Communications, vol. 10, no. 1, Nov. 2023, doi: 10.1057/s41599-023-02304-7. 
+### How It Works
 
-The research on 875 students in Germany reported that 80% of students use AI for tasks like clarifying concepts, writing, and literature. Perceived usefulness was the primary prediction for students to start using AI in their school work. Almost half of all students surveyed mention that ChatGPT was a tool they use for school work. This study shows how AI has integrated itself into a student’s schoolwork.
+AgendaAI is an **AI-powered academic organization tool** that:
 
+1. **Integrates Multiple Services** - Connects Canvas, Gmail, and Google Calendar through their official APIs to centralize assignments, events, and announcements
+2. **Processes Unstructured Information** - Utilizes advanced language models (Gemini LLM) to interpret complex assignment descriptions, lengthy emails, and event details
+3. **Powers AI Assistance** - Employs a Model Context Protocol (MCP) agent that interacts directly with connected services, executing tasks with user-defined permissions
+4. **Natural Language Interaction** - Allows users to interact via natural language commands to create tasks, schedule study sessions, and receive organized summaries
+5. **Intuitive Interface** - Provides a visually appealing, clarity-focused design that emphasizes ease of use
 
-[5]“Code execution with MCP: building more efficient AI agents.” https://www.anthropic.com/engineering/code-execution-with-mcp
+### Key Features
 
-The key benefit of presenting MCP servers as code APIs on a virtual filesystem is that it moves complex logic and heavy data processing out of the model's limited context window and into a dedicated secure execution environment. This approach allows the AI agent to load tools only when needed and filter enormous datasets locally. 
+- ✅ **Centralized Dashboard** - View all assignments, tasks, and events in one place
+- ✅ **Smart Task Parsing** - AI converts complex assignment descriptions into actionable items
+- ✅ **Email & Event Integration** - Automatically imports from Gmail, Canvas, and Google Calendar
+- ✅ **AI-Powered Insights** - Get personalized study recommendations and priority organization
+- ✅ **Natural Language Commands** - Interact with your schedule using simple text commands
+- ✅ **Cross-Platform Sync** - Seamless synchronization across all integrated services
+- ✅ **Timezone-Aware Scheduling** - Proper handling of assignments and events across timezones
+
+---
+
+## 🔗 Project Resources
+
+### Technical & Conceptual Resources
+
+<ul class="resource-list">
+<li><strong>AI Agents with MCP</strong> - K. Stratis, O'Reilly Media (2026). Primary reference for implementing Model Context Protocol servers and building scalable AI agents in Python.</li>
+<li><strong>WCAG 2 Accessibility Guidelines</strong> - <a href="https://www.w3.org/WAI/standards-guidelines/wcag/#intro" aria-label="Web Content Accessibility Guidelines 2.0">Web Accessibility Initiative (WAI)</a> - Ensures our application meets accessibility standards.</li>
+<li><strong>GitHub Repository</strong> - <a href="https://github.com/SeniorProjectsAgendaAI/AgendaAI" aria-label="AgendaAI GitHub repository">SeniorProjectsAgendaAI/AgendaAI</a> - Full source code and development documentation.</li>
+<li><strong>Canvas API Documentation</strong> - <a href="https://canvas.instructure.com/doc/api/" aria-label="Canvas LMS API documentation">Canvas Instructure</a> - Official API reference for Canvas LMS integration.</li>
+<li><strong>Google Workspace APIs</strong> - <a href="https://developers.google.com/workspace/apis" aria-label="Google Workspace APIs documentation">Google Developers</a> - Documentation for Gmail and Google Calendar integration.</li>
+</ul>
+
+### Problem Domain & Related Work
+
+<ul class="resource-list">
+<li><strong>SnoopMe: Interactive Task Scheduler for Students</strong> - IEEE Xplore (2019). A mobile app designed to improve student time management by addressing smartphone distractions and providing real-time alerts.</li>
+<li><strong>AI in Academic Settings</strong> - Von Garrel & Mayer (2023). Research on 875 German students showing 80% use AI for academic tasks, with high perceived usefulness in schoolwork.</li>
+<li><strong>MCP for AI Agents</strong> - Anthropic Engineering. Explores how MCP moves complex logic out of model context windows into dedicated execution environments for efficient AI operations.</li>
+</ul>
+
+### News & Updates
+
+- **Spring 2025** - Initial project development and Canvas integration completed
+- **Development** - AI-powered task parsing and email integration in progress
+- **Ongoing** - User testing and interface refinement with focus on accessibility
+
+---
+
+## 📚 Detailed References
+
+### Accessibility Standards
+
+<div class="references">
+<div class="reference">
+<strong>[1]</strong> W. W. A. I. (WAI), "WCAG 2 Overview", Web Accessibility Initiative (WAI), 2024. <a href="https://www.w3.org/WAI/standards-guidelines/wcag/#intro">https://www.w3.org/WAI/standards-guidelines/wcag/#intro</a>
+<br/><em>The Web Content Accessibility Guidelines 2.0 (WCAG 2.0) form the foundation of our accessibility compliance strategy, ensuring that AgendaAI is usable by all students regardless of abilities.</em>
+</div>
+</div>
+
+### Problem Domain Book
+
+<div class="references">
+<div class="reference">
+<strong>[2]</strong> K. STRATIS, <em>AI Agents with MCP: Model Context Protocol for Building Clients, Services, and End-to-End Agents</em>. O'REILLY MEDIA, 2026.
+<br/><em>This book provides the foundational architecture and patterns for implementing Model Context Protocol in our project. It guides us through building MCP servers in Python and extending agent capabilities for large-scale solutions—a primary reference for our development approach.</em>
+</div>
+</div>
+
+### Peer-Reviewed Articles
+
+<div class="references">
+<div class="reference">
+<strong>[3]</strong> "SnoopMe—Interactive Task Scheduler Mobile Application for Students," <em>IEEE Conference Publication</em> | IEEE Xplore, January 2019. <a href="https://ieeexplore.ieee.org/abstract/document/8945836">https://ieeexplore.ieee.org/abstract/document/8945836</a>
+<br/><em>Introduces a mobile app designed to improve student time management by addressing smartphone distractions. Provides direct comparison point for AgendaAI's approach to task scheduling and student engagement. A study of 30 undergraduate students demonstrated positive outcomes for time management applications.</em>
+</div>
+
+<div class="reference">
+<strong>[4]</strong> J. Von Garrel and J. Mayer, "Artificial Intelligence in Studies—Use of ChatGPT and AI-based Tools Among Students in Germany," <em>Humanities and Social Sciences Communications</em>, vol. 10, no. 1, November 2023, doi: 10.1057/s41599-023-02304-7.
+<br/><em>Research on 875 German students showing that 80% of students use AI for tasks like clarifying concepts, writing, and academic work. Nearly 50% use ChatGPT for schoolwork. Validates the market demand for AI-powered academic tools and demonstrates that perceived usefulness is the primary driver of adoption in educational contexts.</em>
+</div>
+
+<div class="reference">
+<strong>[5]</strong> "Code Execution with MCP: Building More Efficient AI Agents," <em>Anthropic Engineering</em>. <a href="https://www.anthropic.com/engineering/code-execution-with-mcp">https://www.anthropic.com/engineering/code-execution-with-mcp</a>
+<br/><em>Explains the architectural benefit of MCP servers as code APIs on virtual filesystems—moving heavy data processing out of the model's limited context window into dedicated execution environments. This approach allows AgendaAI's AI agent to load tools efficiently and filter large datasets locally.</em>
+</div>
+</div>
+
+---
+
+## 🎯 Project Status
+
+**Current Phase:** Development & Integration (Spring 2025)
+
+**Completed Components:**
+✅ Canvas LMS Integration with timezone support  
+✅ Backend API framework (FastAPI)  
+✅ Google Calendar and Gmail support  
+✅ Frontend dashboard interface  
+✅ User authentication with AWS Cognito  
+
+**In Progress:**
+🔄 Advanced AI task parsing with Gemini  
+🔄 MCP agent implementation  
+🔄 Email-to-task conversion  
+
+**Upcoming:**
+⏳ Comprehensive testing and QA  
+⏳ User feedback integration  
+⏳ Performance optimization  
+⏳ Full accessibility audit (WCAG 2.1 AA)  
+
+---
+
+## 📞 Contact & Support
+
+For questions or feedback about AgendaAI, please visit our [GitHub repository](https://github.com/SeniorProjectsAgendaAI/AgendaAI) or contact the team through the provided GitHub profiles.
+
+---
+
+**Last Updated:** April 18, 2025  
+**Project Website:** Maintained as per CS 426 requirements for one year post-semester.  
+**Note:** This website will remain available for reference and future project continuation.
