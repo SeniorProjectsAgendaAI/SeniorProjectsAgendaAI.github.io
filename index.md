@@ -1,4 +1,3 @@
-layout: default
 ---
 ## CS 426 Senior Project in Computer Science | Spring 2025 | University of Nevada, Reno | CSE Department
 
