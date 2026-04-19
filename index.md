@@ -148,7 +148,7 @@ layout: default
 ---
 
 ## Project Description
-
+TESTING
 ### The Problem
 
 In today's academic world, resources are scattered across different platforms, making it difficult to keep track of everything. Assignments exist on Canvas, online lectures happen on Zoom, emails arrive across multiple platforms, and calendars are fragmented across services. This fragmentation creates significant cognitive overload and makes it easy to miss deadlines and important events.
