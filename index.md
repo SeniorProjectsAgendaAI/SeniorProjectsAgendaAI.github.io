@@ -59,10 +59,10 @@ External Advisor | University of Nevada, Reno
 
 ---
 
-##  Demo Video
+##  Demo Video -To Be Updated. Temporary Placeholder-
 
 <div class="video-container">
-<iframe src="https://www.youtube.com/embed/wdLXmoTWq3k?si=wzcOlBFSYZdvI0o9" title="AgendaAI Project Demo Video - Concept and Layout Overview" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="" title="AgendaAI Project Demo Video - Concept and Layout Overview" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 ---
