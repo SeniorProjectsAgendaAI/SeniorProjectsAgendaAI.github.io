@@ -71,7 +71,7 @@ External Advisor | University of Nevada, Reno
 
 ### The Problem
 
-@@ -108,24 +185,24 @@ AgendaAI is an **AI-powered academic organization tool** that:
+AgendaAI is an **AI-powered academic organization tool** that:
 
 ---
 
@@ -96,7 +96,7 @@ External Advisor | University of Nevada, Reno
 </ul>
 
 ### News & Updates
-@@ -136,68 +213,68 @@ AgendaAI is an **AI-powered academic organization tool** that:
+AgendaAI is an **AI-powered academic organization tool** that:
 
 ---
 
@@ -165,7 +165,7 @@ External Advisor | University of Nevada, Reno
 
 ---
 
-@@ -210,3 +287,5 @@ For questions or feedback about AgendaAI, please visit our [GitHub repository](h
+For questions or feedback about AgendaAI, please visit our [GitHub repository](h
 **Last Updated:** April 18, 2025  
 **Project Website:** Maintained as per CS 426 requirements for one year post-semester.  
 **Note:** This website will remain available for reference and future project continuation.
