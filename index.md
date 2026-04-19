@@ -71,7 +71,16 @@ External Advisor | University of Nevada, Reno
 
 ### The Problem
 
-AgendaAI is an **AI-powered academic organization tool** that:
+Students today face significant stress and time management conflicts due to the high level of context switching required to navigate fragmented academic and personal lives. Students often juggle multiple, incompatible platforms like Canvas for coursework, Google Calendar for meetings, and Gmail for updates, leading to a broken overview of their actual availability. AgendaAI introduces a unified, intelligent interface that consolidates data from different to make academic lives easier. AgendaAI addresses this by using Model Context Protocol (MCP) to fetch real-time data and update a student’s calendar accordingly to ensure deadlines aren’t missed.
+
+### Intended Audience: 
+AgendaAI primarily targets students from high school to college levels. We want to provide a tool that busy students can use to help them organize their academic and personal lives easier. Our intention is to help reduce the amount of platforms students have to go through just to get a clear sense of their schedule, and by reducing this cognitive load while improving time management skills, AgendaAI helps to accurately track the tasks, deadlines, and events necessary for a student’s academic life. This will also reduce the likelihood of important information being overlooked and allowing students to manage their time more effectively.
+
+### Functionality and Capabilities:
+AgendaAI is an AI-powered academic organization tool that uses Canvas, Gmail, and Google Calendar APIs to centralize assignments, events, and announcements into a single platform. Utilizing Google Gemini LLM to interpret and process unstructured academic information, such as lengthy emails and complex assignment descriptions, the agent is able to convert that information into actionable items using natural language processing. The MCP framework is what allows the agent to interact with connected services and execute tasks on the user’s behalf. The application is designed to be intuitive and visually appealing, which allows students to efficiently manage their schedules. 
+
+### Technology Stack:
+The frontend is built using Typescript with React to build UI and Axios is used for handling API requests. The backend uses a python base and fastAPI to manage integrations with external services. Natural Language processing command Model Context Protocol agents utilizing Gemini to interact with Canvas, Gmail, and Google Calendar. The Database uses PostgreSQL to store user and scheduling data. Hosting and cloud infrastructure are through AWS. 
 
 ---
 
