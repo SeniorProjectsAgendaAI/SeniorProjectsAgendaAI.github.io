@@ -9,6 +9,7 @@
 **Team Name:** AgendaAI  
 **GitHub Repository:** [SeniorProjectsAgendaAI/AgendaAI](https://github.com/SeniorProjectsAgendaAI/AgendaAI)  
 **WebApp:** [Currently Inactive](https://creating-dockerfile.d2i3jqbsdy4snq.amplifyapp.com/)  
+
 ---
 
 ##  Team Members
