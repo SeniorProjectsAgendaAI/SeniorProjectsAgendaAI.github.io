@@ -1,5 +1,5 @@
 ---
-## CS 426 Senior Project in Computer Science | Spring 2025 | University of Nevada, Reno | CSE Department
+## CS 426 Senior Project in Computer Science | Spring 2026 | University of Nevada, Reno | CSE Department
 
 ---
 
@@ -169,7 +169,7 @@ The frontend is built using Typescript with React to build UI and Axios is used 
 
 ##  Project Status
 
-**Current Phase:** Development & Integration (Spring 2025)
+**Current Phase:** Development & Integration (Spring 2026)
 
 **Completed Components:**
  Canvas LMS Integration with timezone support  
@@ -193,6 +193,6 @@ The frontend is built using Typescript with React to build UI and Axios is used 
 
 For questions or feedback about AgendaAI, please visit our [GitHub repository](https://github.com/SeniorProjectsAgendaAI/AgendaAI).
 
-**Last Updated:** April 18, 2025  
+**Last Updated:** April 18, 2026  
 **Project Website:** Maintained as per CS 426 requirements for one year post-semester.  
 **Note:** This website will remain available for reference and future project continuation.
