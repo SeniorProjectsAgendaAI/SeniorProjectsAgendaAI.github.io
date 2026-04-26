@@ -59,7 +59,7 @@ External Advisor | University of Nevada, Reno
 
 ---
 
-##  Demo Video -To Be Updated. Temporary Placeholder-
+##  Demo Video
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/At6WqP-ymIo?si=0GL_SGeYTtXdBADm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
